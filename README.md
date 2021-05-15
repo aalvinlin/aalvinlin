@@ -4,7 +4,7 @@
 
 * finding ways to improve K-12 math and science education
 * following research in the fields of cognition and pedagogy
-* building applications for both teachers and students
+* building applications to improve the classroom experience of both teachers and students
 
 ## I'm well-versed in...
 * HTML 5
