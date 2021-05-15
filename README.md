@@ -22,5 +22,5 @@
 
 ## Contact
 
-* Github: https://github.com/aalvinlin
+* GitHub: https://github.com/aalvinlin
 * LinkedIn: https://www.linkedin.com/in/aalvinlin
