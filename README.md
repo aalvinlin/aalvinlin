@@ -1,16 +1,26 @@
-### Hi there 👋
+# Hi, I'm Alvin.
 
-<!--
-**aalvinlin/aalvinlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm passionate about...
 
-Here are some ideas to get you started:
+* finding ways to improve K-12 math and science education
+* following research in the fields of cognition and pedagogy
+* building applications for both teachers and students
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## I'm well-versed in...
+* HTML 5
+* CSS 3
+* ES6 JavaScript
+* React
+* NodeJS
+* Express
+* SQLite
+* Python
+* PHP
+* Git
+* LaTeX
+* Figma
+
+## Contact
+
+* Github: https://github.com/aalvinlin
+* LinkedIn: https://www.linkedin.com/in/aalvinlin
